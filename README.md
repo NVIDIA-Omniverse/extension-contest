@@ -57,7 +57,7 @@ Choose the directory you'd like to create your extension, then provide a folder 
 
 [placeholder image]  
 
-Visual Studio Code should automatically open with the project, and you're ready to begin developing your first extension! Navigate to `exts\[your.project.namespace]\your\project\namespace\extension.py` to review the placeholder code and observe the extension window that is now open in Omniverse Code.  
+Visual Studio Code should automatically open with your newly created project, and you're ready to begin developing your first extension! Navigate to `exts\[your.project.namespace]\your\project\namespace\extension.py` to review the placeholder code and observe the extension window that is now open in Omniverse Code.  
 [placeholder image]  
 
 You can also check out our [Spawn a Cube](https://updateme) tutorial for getting up and running within 10 minutes.  
