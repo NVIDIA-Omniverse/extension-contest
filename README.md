@@ -76,14 +76,14 @@ Kit comes bundled with a number of extensions, which can be found inside `app/ki
 
 **Scene Modifier, Manipulator Tool Samples**  
 * [Object Info](https://updateme) - Lorem ipsum
-* [Widget Info](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC) protocol
-* [Light Manipulator](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC)  
-* [Slider Manipulator](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC) protocol
-* [Camera Reticle](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC)  
+* [Widget Info](https://updateme) - Lorem ipsum
+* [Light Manipulator](https://updateme) - Lorem ipsum
+* [Slider Manipulator](https://updateme) - Lorem ipsum
+* [Camera Reticle](https://updateme) - Lorem ipsum
 
 **Styling Samples**  
-* [Styling Sample 1](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC)  
-* [Styling Sample 2](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC)  
+* [Styling Sample 1](https://updateme) - Lorem ipsum
+* [Styling Sample 2](https://updateme) - Lorem ipsum
 
 ### Technical Documentation ###
 * [Omniverse Code Overview](https://www.youtube.com/watch?v=j1Pwi1KRkhk) - The Omniverse Code app contains interactive documentation to help understand all the different building blocks available in Kit
