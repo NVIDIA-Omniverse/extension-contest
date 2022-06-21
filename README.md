@@ -107,7 +107,7 @@ Here is a high level checklist of what you'll need to do in order to submit your
 :heavy_check_mark: Publish your project to public repo on GitHub  
 :heavy_check_mark: Add the `omniverse-kit-extension` Topic to your repo  
 :heavy_check_mark: Publish a [release](https://release) for your project  
-You can also out [this video](https://updateme) for detailed instructions on how to correctly publish your extension.
+You can also check out [this video](https://updateme) for detailed instructions on how to correctly publish your extension.
 ### Submit ###
 :heavy_check_mark: Create a short video demonstrating what your extension does  
 :heavy_check_mark: Complete the [submission form](http://updateme) for the contest  
