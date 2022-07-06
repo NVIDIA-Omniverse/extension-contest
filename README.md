@@ -7,7 +7,7 @@
 <h3 align="center">
     Extend the Ominverse and Win
 </h3>
-<p align="center">Similar to that feeling of building with blocks when you were a kid, you can extend your 3D pipeline by building your own simulation and design tools. The modular and extensible framework of NVIDIA Omniverse allows you to easily build extensions and apps thanks to low- or no-code python development. Now is your chance to build an extension and win!
+<p align="center">Welcome to our inaugural developer contest! The challenge is to create an extension in NVIDIA Omniverse.. Use Omniverse Code and Omniverse Kit to build Python-based tools for 3D worlds.  Start building an extension now for your chance to win an NVIDIA RTX GPU!
 </p>
 
 <!-- <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-We are looking for extensions that align with one of the following three themes:
+We are looking for extensions that fall into one of the three categories:
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Scene modifier or manipulator tools
 </p>
 <p align="center">
     <strong>
-Use of Omni.UI
+Use of Omni.ui
     </strong>
 </p>
 
