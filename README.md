@@ -65,21 +65,16 @@ Below are a number of resources that will help accelerate your learning journey.
 Kit comes bundled with a number of extensions, which can be found inside `app/kit/exts`, `app/kit/extscore`, and `app/exts`. Most of these are in Python, and the source is available for your continued learning
 
 **Layout & Scene Authoring Samples**  
-* [Spawn Primitives Extension Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-spawn-prims) - Leverage the Command tab to modify your actions  
-* [OSC to Omniverse](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC) protocol
-* [MIDI to Omniverse](https://updateme) - Import MIDI within your Omniverse stage
-* [CSV to Omniverse](https://updateme) - Import assets into your Omniverse stage using a CSV  
-
+* [Spawn Primitives Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-spawn-prims) - Leverage the Command tab to spawn a set of primitives within your scene
+* [Scatter Tool Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-scatter) - Randomly distribute primitives within a given bounds
+* [CSV Reader Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-csv-reader) - Learn how to populate a scene using data from a CSV file
+ 
 **Scene Modifier, Manipulator Tool Samples**  
-* [Object Info](https://updateme) - Lorem ipsum
-* [Widget Info](https://updateme) - Lorem ipsum
-* [Light Manipulator](https://updateme) - Lorem ipsum
-* [Slider Manipulator](https://updateme) - Lorem ipsum
-* [Camera Reticle](https://updateme) - Lorem ipsum
+* [Viewport Info & Manipulator Samples](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-scene) - A collection of samples demonstrating how to render additional metadata and create customer manipluators within the Omniverse viewport
+* [Viewport Reticle Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-reticle) - Use `omni.scene.ui` to draw GUI reticles & compositions within the Omniverse viewport
 
 **Styling Samples**  
-* [Styling Sample 1](https://updateme) - Lorem ipsum
-* [Styling Sample 2](https://updateme) - Lorem ipsum
+* [UI Window Samples](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-window/tree/main/exts) - A collection of samples demonstrating how to layout and style custom dialog windows using Omniverse Kit
 
 ### Technical Documentation ###
 * [Omniverse Code Overview](https://www.youtube.com/watch?v=j1Pwi1KRkhk) - The Omniverse Code app contains interactive documentation to help understand all the different building blocks available in Kit
@@ -92,18 +87,18 @@ We have a fantastic community of active developers in our forums and the officia
 * [NVIDIA Omniverse Discord](https://forums.developer.nvidia.com/t/omniverse-discord-server-is-live/178422)
 
 ## Submitting Your Extension ##
-Here is a high level checklist of what you'll need to do in order to submit your entry: 
+Below is a high level checklist of what you'll need to do in order to submit your entry. You can also check out [this video](https://updateme) for detailed instructions on how to correctly publish your extension.
+ 
 ### Prepare ###  
 :heavy_check_mark: Developer & test your extension  
 :heavy_check_mark: Update your `extension.toml` config file found in `exts\[project]\config`  
-:heavy_check_mark: Update your extension's `README` & `CHANGELOG` found in `exts\[project]\docs`  
-:heavy_check_mark: Update your extension's icon & preview images found in `exts\[project]\data`  
+:heavy_check_mark: Update your extension's `README.md` & `CHANGELOG.md` found in `exts\[project]\docs`  
+:heavy_check_mark: Update your extension's icon.png & preview.png images found in `exts\[project]\data`  
 ### Publish ###
 :heavy_check_mark: Publish your project to public repo on GitHub  
 :heavy_check_mark: Add the `omniverse-kit-extension` Topic to your repo  
-:heavy_check_mark: Publish a [release](https://release) for your project  
-You can also check out [this video](https://updateme) for detailed instructions on how to correctly publish your extension.
+:heavy_check_mark: Publish a [release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for your project  
 ### Submit ###
 :heavy_check_mark: Create a short video demonstrating what your extension does  
-:heavy_check_mark: Complete the [submission form](http://updateme) for the contest  
+:heavy_check_mark: Complete the [submission form](https://www.nvidia.com/extend-omniverse-contest/) for the contest  
 
