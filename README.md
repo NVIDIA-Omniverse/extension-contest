@@ -5,17 +5,13 @@
     #ExtendOmniverse | Closes August 19, 2022
 </h1>
 <h3 align="center">
-    Extend the Ominverse and Win
+    Extend the Omniverse and Win
 </h3>
-<p align="center">Welcome to our inaugural developer contest! The challenge is to create an extension in NVIDIA Omniverse.. Use Omniverse Code and Omniverse Kit to build Python-based tools for 3D worlds.  Start building an extension now for your chance to win an NVIDIA RTX GPU!
+<p align="center">Welcome to our inaugural developer contest! The challenge is to create an extension in NVIDIA Omniverse. Use Omniverse Code and Omniverse Kit to build Python-based tools for 3D worlds. Start building an extension now for your chance to win an NVIDIA RTX GPU!
 </p>
 
-<!-- <p align="center">
-    <a href="https://developer.nvidia.com/nvidia-omniverse-platform"><img src="https://developer.nvidia.com/sites/default/files/akamai/nvidia-omniverse-developer-850w-480h.jpg"></a>
-</p> -->
-
 <p align="center">
-    <a href="https://developer.nvidia.com/nvidia-omniverse-platform"><img src="https://developer.nvidia.com/sites/default/files/akamai/omniverse/nvidia-extension-manager-630w-354h.jpg"></a>
+     <a href="https://www.nvidia.com/extend-omniverse-contest/"><img src="images/ov-dev-contest-1920x1080.jpg"></a>
 </p>
 
 <p align="center">
@@ -39,7 +35,7 @@ Use of Omni.ui
 </p>
 
 ## Getting Started ##  
-Ready to build your first extension? Check out the steps below to get up and running in no time. For additional details on prizes, eligibility, and requirements for the contest, visit the official landing page [here](https://updateme).
+Ready to build your first extension? Check out the steps below to get up and running in no time. For additional details on prizes, eligibility, and requirements for the contest, visit the official landing page [here](https://www.nvidia.com/extend-omniverse-contest/).
 
 ### Installation Prerequisites ###
 :heavy_check_mark: Install [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/download/)  
@@ -60,7 +56,7 @@ Choose the directory you'd like to create your extension, then provide a folder 
 Visual Studio Code should automatically open with your newly created project, and you're ready to begin developing your first extension! Navigate to `exts\[your.project.namespace]\your\project\namespace\extension.py` to review the placeholder code and observe the extension window that is now open in Omniverse Code.  
 [placeholder image]  
 
-You can also check out our [Spawn a Cube](https://updateme) tutorial for getting up and running within 10 minutes.  
+You can also check out our [Spawn Primitives Extension Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-spawn-prims) tutorial for getting up and running within 10 minutes.  
 
 ## Samples & Resources ##
 Below are a number of resources that will help accelerate your learning journey.
@@ -69,7 +65,7 @@ Below are a number of resources that will help accelerate your learning journey.
 Kit comes bundled with a number of extensions, which can be found inside `app/kit/exts`, `app/kit/extscore`, and `app/exts`. Most of these are in Python, and the source is available for your continued learning
 
 **Layout & Scene Authoring Samples**  
-* [Spawn a Cube](https://updateme) - Leverage the Command tab to modify your actions  
+* [Spawn Primitives Extension Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-spawn-prims) - Leverage the Command tab to modify your actions  
 * [OSC to Omniverse](https://updateme) - Control Omniverse remotely via the Open Sound Control (OSC) protocol
 * [MIDI to Omniverse](https://updateme) - Import MIDI within your Omniverse stage
 * [CSV to Omniverse](https://updateme) - Import assets into your Omniverse stage using a CSV  
@@ -89,7 +85,6 @@ Kit comes bundled with a number of extensions, which can be found inside `app/ki
 * [Omniverse Code Overview](https://www.youtube.com/watch?v=j1Pwi1KRkhk) - The Omniverse Code app contains interactive documentation to help understand all the different building blocks available in Kit
 * [Python Kit API Reference & Technical Documentation](https://docs.omniverse.nvidia.com/py/kit/index.html)
 * [NVIDIA Omniverse Resource Center - Extensions](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center#extensions) - includes videos and additional resources for learning how to develop extensions
-* [USD Tutorials & Examples](https://github.com/NVIDIA-Omniverse/USD-Tutorials-And-Examples)
 
 ### Additional Resources ###
 We have a fantastic community of active developers in our forums and the official Omniverse Discord channel. See the links below for support and connecting with the broader Omniverse developer community:
