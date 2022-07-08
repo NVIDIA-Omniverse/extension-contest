@@ -44,17 +44,18 @@ Ready to build your first extension? Check out the steps below to get up and run
 
 ### Building Your First Extension ###
 Once the steps above are complete, getting started is easy. Simply launch Omniverse Code from the NVIDIA Omniverse Launcher, then navigate to the Extensions tab.  
-![extensions window](images/extensions-window.jpg)
+![Extensions Window](images/extensions-window.jpg)
 
 Click the green + icon in the top left corner to create an extension from the template.  
-[placeholder image]  
+![New Extension](images/new-extension.jpg)
 
 Choose the directory you'd like to create your extension, then provide a folder & project namespace to complete the project.  
 
-[placeholder image]  
+![Project Name](images/project-name.jpg)
+![Extension Name](images/extension-name.jpg)
 
 Visual Studio Code should automatically open with your newly created project, and you're ready to begin developing your first extension! Navigate to `exts\[your.project.namespace]\your\project\namespace\extension.py` to review the placeholder code and observe the extension window that is now open in Omniverse Code.  
-[placeholder image]  
+![VSCode Project](images/vscode-project.jpg)
 
 You can also check out our [Spawn Primitives Extension Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-spawn-prims) tutorial for getting up and running within 10 minutes.  
 
