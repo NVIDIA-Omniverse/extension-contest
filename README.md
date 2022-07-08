@@ -77,7 +77,7 @@ Kit comes bundled with a number of extensions, which can be found inside `app/ki
 * [UI Window Samples](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-window/tree/main/exts) - A collection of samples demonstrating how to layout and style custom dialog windows using Omniverse Kit
 
 ### Technical Documentation ###
-* [Omniverse Code Overview](https://www.youtube.com/watch?v=j1Pwi1KRkhk) - The Omniverse Code app contains interactive documentation to help understand all the different building blocks available in Kit
+* [Omniverse Code Overview](https://www.youtube.com/watch?v=j1Pwi1KRkhk) - The Omniverse Code app contains interactive documentation experimenting with key building blocks available in Kit
 * [Python Kit API Reference & Technical Documentation](https://docs.omniverse.nvidia.com/py/kit/index.html)
 * [NVIDIA Omniverse Resource Center - Extensions](https://developer.nvidia.com/nvidia-omniverse-developer-resource-center#extensions) - includes videos and additional resources for learning how to develop extensions
 
@@ -96,8 +96,8 @@ Below is a high level checklist of what you'll need to do in order to submit you
 :heavy_check_mark: Update your extension's icon.png & preview.png images found in `exts\[project]\data`  
 ### Publish ###
 :heavy_check_mark: Publish your project to public repo on GitHub  
-:heavy_check_mark: Add the `omniverse-kit-extension` Topic to your repo  
-:heavy_check_mark: Publish a [release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for your project  
+:heavy_check_mark: Add the `omniverse-kit-extension` [Topic](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) to your repo  
+:heavy_check_mark: Publish a [Release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for your project  
 ### Submit ###
 :heavy_check_mark: Create a short video demonstrating what your extension does  
 :heavy_check_mark: Complete the [submission form](https://www.nvidia.com/extend-omniverse-contest/) for the contest  
