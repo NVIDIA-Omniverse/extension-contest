@@ -55,7 +55,7 @@ Choose the directory you'd like to create your extension, then provide a folder 
 ![Extension Name](images/extension-name.jpg)
 
 Visual Studio Code should automatically open with your newly created project, and you're ready to begin developing your first extension! Navigate to `exts\[your.project.namespace]\your\project\namespace\extension.py` to review the placeholder code and observe the extension window that is now open in Omniverse Code.  
-![VSCode Project](images/vscode-project.jpg)
+![VSCode Project](images/vscode-project.png)
 
 You can also check out our [Spawn Primitives Extension Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-spawn-prims) tutorial for getting up and running within 10 minutes.  
 
