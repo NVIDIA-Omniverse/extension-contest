@@ -44,7 +44,7 @@ Ready to build your first extension? Check out the steps below to get up and run
 
 ### Building Your First Extension ###
 Once the steps above are complete, getting started is easy. Simply launch Omniverse Code from the NVIDIA Omniverse Launcher, then navigate to the Extensions tab.  
-[placholder image]  
+![extensions window](images/extensions-window.jpg)
 
 Click the green + icon in the top left corner to create an extension from the template.  
 [placeholder image]  
