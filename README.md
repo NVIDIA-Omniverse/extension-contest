@@ -88,7 +88,7 @@ We have a fantastic community of active developers in our forums and the officia
 * [NVIDIA Omniverse Discord](https://forums.developer.nvidia.com/t/omniverse-discord-server-is-live/178422)
 
 ## Submitting Your Extension  
-Below is a high level checklist of what you'll need to do in order to submit your entry. You can also check out [this video](https://updateme) for detailed instructions on how to correctly publish your extension.
+Below is a high level checklist of what you'll need to do in order to submit your entry. You can also check out the [How to Submit](https://www.youtube.com/watch?v=z8khQyHT_44) video for detailed instructions on how to correctly publish your extension.
  
 ### Prepare    
 :heavy_check_mark: Developer & test your extension  
@@ -101,5 +101,5 @@ Below is a high level checklist of what you'll need to do in order to submit you
 :heavy_check_mark: Publish a [Release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for your project  
 ### Submit  
 :heavy_check_mark: Create a short video demonstrating what your extension does  
-:heavy_check_mark: Complete the [submission form](https://www.nvidia.com/en-us/omniverse/apps/code/developer-contest/) for the contest  
+:heavy_check_mark: Complete the submission form from the contest landing page [here](https://www.nvidia.com/en-us/omniverse/apps/code/developer-contest/)
 
