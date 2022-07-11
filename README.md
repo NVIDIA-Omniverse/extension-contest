@@ -35,7 +35,7 @@ Use of Omni.ui
 </p>
 
 ## Getting Started    
-Ready to build your first extension? Check out the steps below to get up and running in no time. For additional details on prizes, eligibility, and requirements for the contest, visit the official landing page [here](https://www.nvidia.com/en-us/omniverse/apps/code/developer-contest/).  
+Ready to build your first extension? Check out the steps below to get up and running in no time. For additional details on prizes, eligibility, and requirements for the contest, visit the [official landing page](https://www.nvidia.com/en-us/omniverse/apps/code/developer-contest/) or the [announcement blog](https://developer.nvidia.com/blog/build-tools-for-the-3d-world-with-the-extend-the-omniverse-contest/). 
 
 ### Installation Prerequisites  
 :heavy_check_mark: Install [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/download/)  
