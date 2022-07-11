@@ -71,7 +71,7 @@ Kit comes bundled with a number of extensions, which can be found inside `app/ki
 * [CSV Reader Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-csv-reader) - Learn how to populate a scene using data from a CSV file
  
 **Scene Modifier, Manipulator Tool Samples**  
-* [Viewport Info & Manipulator Samples](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-scene) - A collection of samples demonstrating how to render additional metadata and create customer manipluators within the Omniverse viewport
+* [Viewport Info & Manipulator Samples](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-scene) - A collection of samples demonstrating how to render additional metadata and create custom manipluators within the Omniverse viewport
 * [Viewport Reticle Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-reticle) - Use `omni.scene.ui` to draw GUI reticles & compositions within the Omniverse viewport
 
 **Styling Samples**  
