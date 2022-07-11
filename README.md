@@ -97,7 +97,7 @@ Below is a high level checklist of what you'll need to do in order to submit you
 :heavy_check_mark: Update your extension's icon.png & preview.png images found in `exts\[project]\data`  
 ### Publish  
 :heavy_check_mark: Publish your project to a public repo on GitHub  
-:heavy_check_mark: Add the `omniverse-kit-extension` [Topic](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) to your repo so that it shows up [here](https://github.com/topics/omniverse-kit-extension)
+:heavy_check_mark: Add the `omniverse-kit-extension` [Topic](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) to your repo so that it shows up [here](https://github.com/topics/omniverse-kit-extension)  
 :heavy_check_mark: Publish a [Release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for your project  
 ### Submit  
 :heavy_check_mark: Create a short video demonstrating what your extension does  
