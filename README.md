@@ -75,7 +75,7 @@ Kit comes bundled with a number of extensions, which can be found inside `app/ki
 * [Viewport Reticle Sample](https://github.com/NVIDIA-Omniverse/kit-extension-sample-reticle) - Use `omni.scene.ui` to draw GUI reticles & compositions within the Omniverse viewport
 
 **Styling Samples**  
-* [UI Window Samples](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-window/tree/main/exts) - A collection of samples demonstrating how to layout and style custom dialog windows using Omniverse Kit
+* [UI Window Samples](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-window) - A collection of samples demonstrating how to layout and style custom dialog windows using Omniverse Kit
 
 ### Technical Documentation  
 * [Omniverse Code Overview](https://www.youtube.com/watch?v=j1Pwi1KRkhk) - The Omniverse Code app contains interactive documentation experimenting with key building blocks available in Kit
