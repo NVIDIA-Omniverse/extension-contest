@@ -2,7 +2,7 @@
 <h1 align="center">
     NVIDIA Omniverse Developer Contest
     <br>
-    #ExtendOmniverse | Closes August 19, 2022
+    #ExtendOmniverse | Closes September 9, 2022
 </h1>
 <h3 align="center">
     Extend the Omniverse and Win
