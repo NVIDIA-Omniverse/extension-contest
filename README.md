@@ -98,7 +98,7 @@ Below is a high level checklist of what you'll need to do in order to submit you
 ### Publish  
 :heavy_check_mark: Publish your project to a public repo on GitHub. Ensure your repo's `root` directory contains the `exts\` folder (see our [template](https://github.com/NVIDIA-Omniverse/kit-extension-template) as an example)  
 :heavy_check_mark: Add the `omniverse-kit-extension` [Topic](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) to your repo so that it shows up [here](https://github.com/topics/omniverse-kit-extension)  
-:heavy_check_mark: Publish a [Release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for your project 
+:heavy_check_mark: Publish a [Release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) for your project    
 :heavy_check_mark: Download and unzip your release's `source.zip` file to ensure the the root directory contains the `exts\` folder
 ### Submit  
 :heavy_check_mark: Create a short video demonstrating what your extension does  
