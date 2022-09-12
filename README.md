@@ -2,12 +2,12 @@
 <h1 align="center">
     NVIDIA Omniverse Developer Contest
     <br>
-    #ExtendOmniverse | Closes September 9, 2022 @ 5PM PT
+    #ExtendOmniverse | Submissions Now Closed
 </h1>
 <h3 align="center">
     Extend the Omniverse and Win
 </h3>
-<p align="center">Welcome to our inaugural developer contest! The challenge is to create an extension in NVIDIA Omniverse. Use Omniverse Code and Omniverse Kit to build Python-based tools for 3D worlds. Start building an extension now for your chance to win an NVIDIA RTX GPU!
+<p align="center">Thank you to all of the incredible developers who used Omniverse Code to create an extension. Winners will be announced at the <a href="https://www.nvidia.com/gtc/session-catalog/?search=SE41388&search=SE41388%2C+SE41388&tab.catalogallsessionstab=16566177511100015Kus#/session/1658438748728001JAUi">Omniverse User Group</a> at GTC on September 20th at 3pm PDT, so be sure to register to find out if you won!
 </p>
 
 <p align="center">
